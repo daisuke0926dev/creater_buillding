@@ -52,3 +52,34 @@ npm run dev
 ## ライセンス
 
 MIT License
+
+# creater_buillding
+
+Next.jsを使用したWebアプリケーション
+
+## 開発環境のセットアップ
+
+```bash
+# 依存関係のインストール
+npm install
+
+# 開発サーバーの起動
+npm run dev
+```
+
+## ビルドと実行
+
+```bash
+# プロダクションビルド
+npm run build
+
+# プロダクションサーバーの起動
+npm start
+```
+
+## 技術スタック
+
+- Next.js 14.1.0
+- React 18.2.0
+- TypeScript 5.3.0
+- ESLint 8.56.0
